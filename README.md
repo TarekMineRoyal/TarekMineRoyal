@@ -71,7 +71,7 @@ End-to-end MiniPascal compiler frontend built in C++ using Flex and Bison for le
 ## 📬 Contact
 
 - **Email:** [mouradtarek08@gmail.com](mailto:mouradtarek08@gmail.com)
-- **LinkedIn:** [Tarek Mourad](https://www.linkedin.com/in/tarek-mourad-3776a5242/)
+- **LinkedIn:** [Tarek Mourad](https://www.linkedin.com/in/tarekmineroyal/)
 - **Telegram:** [@Tarek_Mourad](https://t.me/Tarek_Mourad)
 
 ---
