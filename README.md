@@ -46,8 +46,8 @@ I am a Software & Artificial Intelligence Engineer specializing in deep learning
 
 ## 🚀 Featured Projects
 
-### Collaborative Academic Networking Platform (Private Repository)
-System architecture and data infrastructure for cross-institutional research collaboration. Developed in collaboration between Université de Lille and HIAST.
+### [AcademicGateway](https://github.com/TarekMineRoyal/AcademicGateway)
+Collaborative Academic Networking Platform. Developed in collaboration between Université de Lille and HIAST.
 - **Topics:** ASP.NET Core, FastAPI (AI Sidecar), React (Hooks), Clean Architecture, Natural Language Processing, System Architecture
 
 ### [AuraLens](https://github.com/TarekMineRoyal/AuraLens)
