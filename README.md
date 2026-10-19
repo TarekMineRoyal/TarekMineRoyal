@@ -46,9 +46,9 @@ I am a Software & Artificial Intelligence Engineer specializing in deep learning
 
 ## 🚀 Featured Projects
 
-### [Collaborative Academic Networking Platform](https://github.com/TarekMineRoyal)
-System architecture and data infrastructure for cross-institutional research collaboration, featuring automated content classification systems. Developed in collaboration between Université de Lille and HIAST.
-- **Topics:** Distributed Systems, Data Infrastructure, Natural Language Processing, System Architecture
+### Collaborative Academic Networking Platform (Private Repository)
+System architecture and data infrastructure for cross-institutional research collaboration. Developed in collaboration between Université de Lille and HIAST.
+- **Topics:** ASP.NET Core, FastAPI (AI Sidecar), React (Hooks), Clean Architecture, Natural Language Processing, System Architecture
 
 ### [RL-Robot-Navigation](https://github.com/TarekMineRoyal/RL-Robot-Navigation)
 Continuous 2D simulation environment built with Gymnasium to evaluate Deep Reinforcement Learning algorithms (PPO and DQN) using TensorFlow for trajectory generation and collision avoidance.
