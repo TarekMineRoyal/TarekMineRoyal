@@ -27,12 +27,12 @@ I am a Software & Artificial Intelligence Engineer specializing in deep learning
 ## 🛠️ Skills & Technologies
 
 - **Languages:** Python, C/C++, C#, Java, JavaScript/TypeScript, SQL, Dart
-- **Libraries & Frameworks:** FastAPI, ASP.NET Core, React, Node.js, Flutter, Entity Framework Core
-- **AI & Machine Learning:** PyTorch, TensorFlow, Transformers, Computer Vision, YOLO, Reinforcement Learning (Gymnasium)
+- **Libraries & Frameworks:** FastAPI, ASP.NET Core, React, Node.js, Flutter
+- **AI & Machine Learning:** PyTorch, TensorFlow, Transformers, Computer Vision, YOLO
 - **Architecture & Design:** Clean Architecture, DDD, MVVM, 3-Tier, AI Sidecar Pattern, Modular Monoliths, React Hooks
 - **Data Science & Visualization:** Data Mining, Data Analysis, Statistics, D3.js, Three.js
 - **Web Automation & Testing:** Selenium, NUnit, Page Object Model, QA Testing
-- **DevOps & Tools:** Docker, Git, GitHub Actions, Linux, CI/CD, Flex, Bison
+- **DevOps & Tools:** Docker, Git, GitHub Actions, Linux, CI/CD
 
 ---
 
