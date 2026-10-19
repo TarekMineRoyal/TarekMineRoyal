@@ -50,21 +50,21 @@ I am a Software & Artificial Intelligence Engineer specializing in deep learning
 System architecture and data infrastructure for cross-institutional research collaboration. Developed in collaboration between Université de Lille and HIAST.
 - **Topics:** ASP.NET Core, FastAPI (AI Sidecar), React (Hooks), Clean Architecture, Natural Language Processing, System Architecture
 
-### [RL-Robot-Navigation](https://github.com/TarekMineRoyal/RL-Robot-Navigation)
-Continuous 2D simulation environment built with Gymnasium to evaluate Deep Reinforcement Learning algorithms (PPO and DQN) using TensorFlow for trajectory generation and collision avoidance.
-- **Topics:** Reinforcement Learning, TensorFlow, Gymnasium, PPO, DQN, Autonomous Navigation
-
 ### [AuraLens](https://github.com/TarekMineRoyal/AuraLens)
 Assistive mobile application prototype for visual support, leveraging Flutter alongside a Python/FastAPI backend and multimodal AI models for real-time scene understanding and OCR.
 - **Topics:** Flutter, FastAPI, Python, Multimodal AI, Computer Vision
 
-### [minipascal-compiler](https://github.com/TarekMineRoyal/minipascal-compiler)
-End-to-end MiniPascal compiler frontend built in C++ using Flex and Bison for lexical and syntactic analysis, targeting a custom stack-based virtual machine execution environment.
-- **Topics:** C++, Flex, Bison, Compiler Construction, AST, Virtual Machine
-
 ### [TAJSWebProject](https://github.com/TarekMineRoyal/TAJSWebProject)
 Scalable web application platform for tour agency and vehicle rental management, engineered with Clean Architecture across Domain, Application, and Data layers.
 - **Topics:** ASP.NET Core 8, C#, React, TypeScript, Clean Architecture, SQL
+
+### [RL-Robot-Navigation](https://github.com/TarekMineRoyal/RL-Robot-Navigation)
+Continuous 2D simulation environment built with Gymnasium to evaluate Deep Reinforcement Learning algorithms (PPO and DQN) using TensorFlow for trajectory generation and collision avoidance.
+- **Topics:** Reinforcement Learning, TensorFlow, Gymnasium, PPO, DQN, Autonomous Navigation
+
+### [minipascal-compiler](https://github.com/TarekMineRoyal/minipascal-compiler)
+End-to-end MiniPascal compiler frontend built in C++ using Flex and Bison for lexical and syntactic analysis, targeting a custom stack-based virtual machine execution environment.
+- **Topics:** C++, Flex, Bison, Compiler Construction, AST, Virtual Machine
 
 ---
 
